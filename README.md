@@ -1,6 +1,20 @@
-# 💫 About Me:
-<h1>Hello!, I'm Paul Akash<h1></h1><br>🎓 BSc in CSE Student at *****<br>💻 Aspiring Backend Developer<br><br>🚀 About Me<br>🌱 Currently learning Python, AI & Django<br>🤖 Interested in Robotics & Automation<br>💡 Passionate about building real-world projects
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=68F743&width=435&lines=Hello%2C+I'm+Paul+Akash)](https://git.io/typing-svg)
+  
+---
 
+##  About Me
+-  Currently learning C and C++
+-  Interested in Robotics & Automation  
+-  Passionate about building real-world projects  
+
+---
+
+##  Skills (Learning Stage)
+- C/C++ (Beginner)
+- Git & GitHub
+- HTML & CSS
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulakash187@gmail.com) 
