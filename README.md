@@ -1,10 +1,10 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere below with your GitHub username -->
+<!-- Replace paulaka5h everywhere below with your GitHub username -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF2E93,50:FF8A00,100:7B2FF7&text=AKASH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA&descSize=22&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/paulaka5h">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=700&lines=CSE+student+at+NITER;Game+and+software+developer;Building+things+one+commit+at+a+time" alt="typing intro" />
 </a>
 
@@ -34,7 +34,7 @@ I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and sof
 | Class | CSE undergrad |
 | Main quest | Game development and software development |
 | Side quests | Hackathons, web apps, AI tools |
-| Crews | NITER Science Society, Niter Computer Club |
+| Crews | Niter Computer Club |
 
 <br/>
 
@@ -53,7 +53,7 @@ I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and sof
 
 </div>
 
-> Edit this list so it only shows what you actually use. Swap or add badges at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
+<!-- > Edit this list so it only shows what you actually use. Swap or add badges at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org). -->
 
 <br/>
 
@@ -61,13 +61,12 @@ I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and sof
 
 | Mission | What it is |
 |:--|:--|
-| **CampusEase** | Student life web app for NITER: room and seat finder, notices, bus tracking, lost and found |
-| **NITER Alumni Connect** | Platform that connects NITER students with alumni |
-| **World Cup 2026 Predictor** | Bracket predictor web app for the FIFA World Cup 2026 |
-| **Legal AI Platform** | AI Builders Congress project: strategy engine and dashboards for Bangladesh lawyers |
-| **Portfolio Website** | My personal site |
+| **[CampusEase](https://campusease-git-main-danial17.vercel.app)** | Student life web app for NITER: room and seat finder, notices, bus tracking, lost and found | 
+| **[Pokkho AI](https://pokkhoai.vercel.app)** | AI Builders Congress project: strategy engine and dashboards for Bangladesh lawyers |
+| **[Portfolio Website](https://paulakash.vercel.app)** | My personal site |
+<!--| **NITER Alumni Connect** | Platform that connects NITER students with alumni | -->
 
-> Add repo links to each one, for example `[CampusEase](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)`.
+<!-- > Add repo links to each one, for example `[CampusEase](https://github.com/paulaka5h/REPO_NAME)`. -->
 
 <br/>
 
@@ -82,10 +81,10 @@ I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and sof
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&icon_color=FF8A00&text_color=FFFFFF&ring_color=00E5FF" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&text_color=FFFFFF" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=paulaka5h&show_icons=true&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&icon_color=FF8A00&text_color=FFFFFF&ring_color=00E5FF" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaka5h&layout=compact&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&text_color=FFFFFF" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B0B1A&ring=FF2E93&fire=FF8A00&currStreakLabel=FFFFFF&sideLabels=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00E5FF" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=paulaka5h&hide_border=true&background=0B0B1A&ring=FF2E93&fire=FF8A00&currStreakLabel=FFFFFF&sideLabels=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00E5FF" alt="streak"/>
 
 </div>
 
@@ -98,8 +97,11 @@ I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and sof
 <a href="https://www.linkedin.com/in/paulaka5h/">
   <img src="https://img.shields.io/badge/LinkedIn-paulaka5h-FF2E93?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B1A" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/paulaka5h">
   <img src="https://img.shields.io/badge/GitHub-Follow-FF8A00?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B1A" alt="GitHub"/>
+</a>
+<a href="mailto:paulakash187@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-Contact%20me-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B1A" alt="Mail"/>
 </a>
 
 </div>
