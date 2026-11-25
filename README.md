@@ -1,56 +1,109 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F721&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Paul+Akash" alt="Typing SVG" /></a>
-</p>
- 
+<!-- Replace YOUR_GITHUB_USERNAME everywhere below with your GitHub username -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF2E93,50:FF8A00,100:7B2FF7&text=AKASH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA&descSize=22&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=700&lines=CSE+student+at+NITER;Game+and+software+developer;Building+things+one+commit+at+a+time" alt="typing intro" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/WANTED-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF2E93?style=for-the-badge&labelColor=0B0B1A" alt="wanted level"/>
+<img src="https://img.shields.io/badge/BASED%20IN-DHAKA%2C%20BANGLADESH-FF8A00?style=for-the-badge&labelColor=0B0B1A" alt="location"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-00E5FF?style=for-the-badge&labelColor=0B0B1A" alt="status"/>
+
+</div>
+
+<br/>
+
 ---
 
-##  About Me
--  Currently learning C and C++
--  Interested in Robotics & Automation  
--  Passionate about building real-world projects  
+## // MISSION BRIEFING
 
----
+I'm Akash, a BSc CSE student at NITER in Bangladesh. I like making games and software, and I spend most of my time on hackathons, side projects and university work.
 
-##  Skills (Learning Stage)
-- C/C++ (Beginner)
-- Git & GitHub
-- HTML & CSS
+<br/>
 
----
+## // CHARACTER STATS
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulakash187@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulaka5h) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RtvNY5BRsZ) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paulaka5h) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paul_aka5h) 
+| Stat | Level |
+|:--|:--|
+| Location | Dhaka, Bangladesh |
+| Class | CSE undergrad |
+| Main quest | Game development and software development |
+| Side quests | Hackathons, web apps, AI tools |
+| Crews | NITER Science Society, Niter Computer Club |
 
-<!--  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>  -->
+<br/>
 
+## // WEAPON LOADOUT
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/Python-0B0B1A?style=for-the-badge&logo=python&logoColor=FF2E93" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B1A?style=for-the-badge&logo=javascript&logoColor=FF8A00" />
+<img src="https://img.shields.io/badge/HTML5-0B0B1A?style=for-the-badge&logo=html5&logoColor=FF2E93" />
+<img src="https://img.shields.io/badge/CSS3-0B0B1A?style=for-the-badge&logo=css3&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B0B1A?style=for-the-badge&logo=cplusplus&logoColor=FF8A00" />
+<img src="https://img.shields.io/badge/Git-0B0B1A?style=for-the-badge&logo=git&logoColor=FF2E93" />
+<img src="https://img.shields.io/badge/GitHub-0B0B1A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS%20Code-0B0B1A?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) --> 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-|![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+</div>
 
+> Edit this list so it only shows what you actually use. Swap or add badges at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
+## // MISSIONS COMPLETED
+
+| Mission | What it is |
+|:--|:--|
+| **CampusEase** | Student life web app for NITER: room and seat finder, notices, bus tracking, lost and found |
+| **NITER Alumni Connect** | Platform that connects NITER students with alumni |
+| **World Cup 2026 Predictor** | Bracket predictor web app for the FIFA World Cup 2026 |
+| **Legal AI Platform** | AI Builders Congress project: strategy engine and dashboards for Bangladesh lawyers |
+| **Portfolio Website** | My personal site |
+
+> Add repo links to each one, for example `[CampusEase](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)`.
+
+<br/>
+
+## // ACHIEVEMENTS UNLOCKED
+
+- Intra-NITER Programming Contest 2026
+- Hacktoberfest 2026
+
+<br/>
+
+## // GITHUB STATS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&icon_color=FF8A00&text_color=FFFFFF&ring_color=00E5FF" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0B1A&title_color=FF2E93&text_color=FFFFFF" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B0B1A&ring=FF2E93&fire=FF8A00&currStreakLabel=FFFFFF&sideLabels=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00E5FF" alt="streak"/>
+
+</div>
+
+<br/>
+
+## // CONTACT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/paulaka5h/">
+  <img src="https://img.shields.io/badge/LinkedIn-paulaka5h-FF2E93?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B1A" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-FF8A00?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B1A" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7B2FF7,50:FF8A00,100:FF2E93&section=footer&text=SEE%20YOU%20IN%20VICE%20CITY&fontSize=24&fontColor=FFFFFF&fontAlignY=65" alt="footer" width="100%"/>
