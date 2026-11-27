@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF2E93,50:FF8A00,100:7B2FF7&text=AKASH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA&descSize=22&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://github.com/paulaka5h">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=700&lines=CSE+student;Game+and+software+developer;Building+things+one+commit+at+a+time" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=700&lines=CSE+student;Game+and+software+development+enthusiast;Building+things+one+commit+at+a+time" alt="typing intro" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## // MISSION BRIEFING
 
-I'm Akash, a BSc CSE student in Bangladesh. I like making games and software, and I spend most of my time on hackathons, side projects and university work.
+I'm Akash, a BSc CSE student in Bangladesh, still in the learning stage and curious about software and game development. I learn by building small projects. Right now, I’m focused on strengthening my fundamentals and looking for people and projects to learn from, and I spend most of my time on hackathons, side projects and university work. :l
 
 <br/>
 
